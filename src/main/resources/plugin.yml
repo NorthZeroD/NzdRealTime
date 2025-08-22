@@ -1,0 +1,8 @@
+name: NzdRealTime
+version: '1.0.0'
+main: io.github.northzerod.nzdRealTime.NzdRealTime
+api-version: '1.21'
+prefix: NzdRealTime
+authors: [ NorthZero ]
+description: Nzd's Real Time
+website: https://northzerod.github.io/
